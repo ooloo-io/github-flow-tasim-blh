@@ -9,3 +9,11 @@ body {
   align-items: center;
   border-bottom: solid 1px black
 }
+
+.footer {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: solid 1px black;
+}
